@@ -1,0 +1,6 @@
+body { font-family: 'Georgia', serif; color: #333; text-align: center; padding: 50px; }
+.border { border: 10px double #b8860b; padding: 40px; width: 800px; margin: auto; }
+h1 { font-variant: small-caps; letter-spacing: 4px; font-size: 32px; }
+.content { margin-top: 30px; line-height: 1.8; }
+.field { border-bottom: 1px solid #000; display: inline-block; min-width: 200px; margin: 10px; }
+.signature-section { margin-top: 50px; display: flex; justify-content: space-around; }
